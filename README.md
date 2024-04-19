@@ -32,5 +32,5 @@ Examples:
 * `::third` and `::1/3` would give you `⅓`
 * `::quarter` and `::1/4` would give you `¼`
 
-[1](https://alfredapp.com)
-[2](https://github.com/sncsenpai/alfred-fc-snippets/releases)
+[1]: https://alfredapp.com "Get the Alfred app"
+[2]: https://github.com/sncsenpai/alfred-fc-snippets/releases "Release page"
