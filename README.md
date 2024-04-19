@@ -1,4 +1,4 @@
-# Fraction.Characters Snippet
+# Fraction.Characters Snippet for Alfred
 
 I am an absolute fan of the [Alfred][1] app for ~MacOS~ macOS, and I'm pretty sure that I've only just scraped the surface of its capabilities.
 
